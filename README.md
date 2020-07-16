@@ -62,7 +62,7 @@ This will provide the notebook, and the csv required to run it.
  - [Ben Kelly](https://github.com/Benk195)
 
 <a name="ref"></a>
-## Udacity
+## Kaggle
 
  - [Hassan Amin](https://www.kaggle.com/hassanamin/)
  - Thanks to Hassan Amin for providing the data for this project
